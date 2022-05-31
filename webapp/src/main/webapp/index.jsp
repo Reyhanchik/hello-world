@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-  <h2>Raykhona wants to check</h2>
+  <h2>Raykhona wants to check and it is in process</h2>
 
   
 </form>
