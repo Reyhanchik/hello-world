@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
   <h2>Raykhona wants to check and it is in process</h2>
-
+  <h2> Raykhona is learning Jenkins CI/CD</h2>
   
 </form>
