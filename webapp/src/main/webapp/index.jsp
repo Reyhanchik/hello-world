@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-  <h2>Raykhona <h2>
+  <h2>Raykhona is leaning Devops <h2>
   
 </form>
